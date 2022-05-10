@@ -1,0 +1,7 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome";
+@import "~bootstrap-icons";
+body {
+  padding: auto;
+  font-family: "Roboto", sans-serif;
+}

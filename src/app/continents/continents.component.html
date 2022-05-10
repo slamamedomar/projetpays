@@ -1,0 +1,8 @@
+<div class="space">
+  <br>
+</div>
+<ul class="list-group align-items-left">
+  <li *ngFor="let cont of continents ; let i = index" class="list-group-item d-flex justify-content-between align-items-center">
+    {{continents[i]}}
+    <button type="button" class="btn btn-info" routerLink="/pays/{{continents[i]}}">les pays</button>
+</li>

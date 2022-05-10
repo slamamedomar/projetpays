@@ -1,0 +1,12 @@
+img{
+    height: 170px;
+    width: 170px;
+}
+.divid
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}

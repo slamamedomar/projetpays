@@ -1,0 +1,27 @@
+
+.countries-container{
+  padding: 20px;
+
+}
+.card{
+  margin-right: 4px;
+  height: fix;
+  padding: 20px;
+  margin: auto;
+  border: 2px solid #3f729b ;
+  text-align: center;
+  height: 350px;
+  width: 28%;
+
+}
+.card-img-top{
+  align-self: center;
+  width: 150px;
+  height: 200px;
+  border-radius: 50%;
+ background-color: #83add0;
+ display: inline-block;
+ position: relative;
+overflow: hidden;
+
+}
